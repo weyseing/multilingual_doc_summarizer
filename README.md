@@ -1,0 +1,2 @@
+# multilingual_doc_summarizer
+Multilingual Document Summarizer
